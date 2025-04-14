@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282003%29/Koi...%20Mil%20Gaya%20%282003%29%201080p/Koi...%20Mil%20Gaya%202003%20WebRip%201080p%20Hindi%20DvD%205.1%20x264%20ESub%20-%20mkvCinemas.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282006%29/Krrish%20%282006%29%201080p/Krrish%20%282006%29%20Hindi%201080p%20BluRay%20x265%20HEVC%20AAC%205.1%20MSubs%20-Natty.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282013%29/Krrish%203%20%282013%29%201080p/Krrish%203%20%282013%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://index1.circleftp.net/FILE/Hindi%20Movies/2003/Koi...%20Mil%20Gaya%20%282003%29%201080p%20WEB%20DL%20x264%20AAC/Koi...%20Mil%20Gaya%20%282003%29%201080p%20WEB%20DL%20x264%20AAC.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://index1.circleftp.net/FILE/Hindi%20Movies/2006/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv</location>
+			<title>Krrish 2006 BluRay - mkvCinemas</title>
+			<album>Encoded By: mkvCinemas</album>
+			<duration>10516064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://index1.circleftp.net/FILE/Hindi%20Movies/2013/Krrish%203%202013%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs/Krrish%203%202013%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

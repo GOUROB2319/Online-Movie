@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E01.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E02.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E03.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E04.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E05.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E06.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E08.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E09.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E10.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E11.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E12.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E13.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E14.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E15.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Crash%20Landing%20on%20You%20%28TV%20Series%202019-2020%29%20Hindi%20Dubbed/Season%201%201080p/Crash.Landing.on.You.S01E16.1080p.NF.WEB-DL.DD%2B2.0.x264-Telly.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>

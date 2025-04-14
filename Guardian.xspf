@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E01%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E02%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E03%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E04%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E05%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E06%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E07%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E08%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E09%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E10%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E11%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E12%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E13%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E14%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E15%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E16%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%202.0%5D%20-MsHeist.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E17%20%20Special-1%20Korean%201080p%20NF%20WEBRip%20x264%20MSubs-MsVerse.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E18%20%20Special-2%20Korean%201080p%20NF%20WEBRip%20x264%20MSubs-MsVerse.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Guardian-The%20Lonely%20and%20Great%20God%20%28Goblin%29%20%28TV%20Series%202016%E2%80%932017%29%201080p%20%5BDual%20Audio%5D/Season%201/Goblin%20S01E19%20%20Special-3%20DC%20Korean%201080p%20NF%20WEBRip%20x264%20MSubs-MsVerse.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+	</extension>
+</playlist>
