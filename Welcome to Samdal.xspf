@@ -3,99 +3,65 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E01.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/01%20-%20Beche%20Thakar%20Gaan.flac</location>
+			<title>Beche Thakar Gaan</title>
+			<creator>Rupam Islam</creator>
+			<album>Autograph</album>
+			<trackNum>1</trackNum>
+			<annotation>CRC : 57052920</annotation>
+			<image>file:///C:/Users/Gourob%20Saha/AppData/Roaming/vlc/art/artistalbum/Rupam%20Islam/Autograph/art.jpg</image>
+			<duration>253280</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E02.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/02%20-%20Chol%20Raastaye.flac</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E03.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/03%20-%20Bhaag%20Jaana%20Hai%20Kahan.flac</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E04.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/04%20-%20Phanade%20Poriya%20Bawga%20Kaande%20Re.flac</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E05.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/05%20-%20Utheche%20Jege%20Shokalgulo.flac</location>
+			<title>Utheche Jege Shokalgulo</title>
+			<creator>Shreya Ghoshal</creator>
+			<album>Autograph</album>
+			<trackNum>5</trackNum>
+			<annotation>CRC : E82596A3</annotation>
+			<image>file:///C:/Users/Gourob%20Saha/AppData/Roaming/vlc/art/artistalbum/Shreya%20Ghoshal/Autograph/art.jpg</image>
+			<duration>215813</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E06.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/06%20-%20Chol%20Raastaye.flac</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E07.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/07%20-%20Beche%20Thakar%20Gaan.flac</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E08.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
+			<location>https://cdn3.discoveryftp.net/Audiophile%20Music/Bangla/Anupam%20Roy/Anupam%20Roy%20-%20Autograph%20%5B2010%20CD%20FLAC%5D/08%20-%20Aamake%20Aamar%20Moto%20Thaakte%20Dao.flac</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E09.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E10.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E11.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E12.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E13.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E14.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E15.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Welcome%20to%20Samdal-ri%20%28TV%20Series%202023%E2%80%93%20%29%20720p/Season%201%20%28Korean%20Language%29/Welcome.to.Samdalri.S01E16.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -108,13 +74,5 @@
 		<vlc:item tid="5"/>
 		<vlc:item tid="6"/>
 		<vlc:item tid="7"/>
-		<vlc:item tid="8"/>
-		<vlc:item tid="9"/>
-		<vlc:item tid="10"/>
-		<vlc:item tid="11"/>
-		<vlc:item tid="12"/>
-		<vlc:item tid="13"/>
-		<vlc:item tid="14"/>
-		<vlc:item tid="15"/>
 	</extension>
 </playlist>
