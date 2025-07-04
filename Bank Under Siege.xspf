@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Bank%20Under%20Siege%20%28TV%20Mini%20Series%202024%29%20720p%20%5BMulti%20Audio%5D/Season%201/Bank%20Under%20Siege%20S01E01%20%20720p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BSpanish%202.0%2BEnglish%202.0%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Bank%20Under%20Siege%20%28TV%20Mini%20Series%202024%29%20720p%20%5BMulti%20Audio%5D/Season%201/Bank%20Under%20Siege%20S01E02%20%20720p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BSpanish%202.0%2BEnglish%202.0%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Bank%20Under%20Siege%20%28TV%20Mini%20Series%202024%29%20720p%20%5BMulti%20Audio%5D/Season%201/Bank%20Under%20Siege%20S01E03%20%20720p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BSpanish%202.0%2BEnglish%202.0%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Bank%20Under%20Siege%20%28TV%20Mini%20Series%202024%29%20720p%20%5BMulti%20Audio%5D/Season%201/Bank%20Under%20Siege%20S01E04%20%20720p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BSpanish%202.0%2BEnglish%202.0%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Bank%20Under%20Siege%20%28TV%20Mini%20Series%202024%29%20720p%20%5BMulti%20Audio%5D/Season%201/Bank%20Under%20Siege%20S01E05%20%20720p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BSpanish%202.0%2BEnglish%202.0%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

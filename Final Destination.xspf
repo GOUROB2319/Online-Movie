@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282000%29/Final%20Destination%201%20%282000%29%20720p%20%5BDual%20Audio%5D/Final%20Destination%201%20%282000%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282003%29/Final%20Destination%202%20%282003%29%20720p%20%5BDual%20Audio%5D/Final%20Destination%202%20%282003%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282006%29/Final%20Destination%203%20%282006%29%20720p%20%5BDual%20Audio%5D/Final%20Destination%203%20%282006%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282009%29/Final%20Destination%204%20%282009%29%20720p%20%5BDual%20Audio%5D/Final%20Destination%204%20%282009%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-%20mkvC.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282011%29/Final%20Destination%205%20%282011%29%20720p%20720p%20%5BDual%20Audio%5D/Final%20Destination%205%20%282011%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-%20mkvC.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

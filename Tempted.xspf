@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E01%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E02%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E03%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E04%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E05%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E06%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E07%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E08%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E09%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E10%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E11%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E12%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E13%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E14%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E15%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Tempted%20%28TV%20Series%202018%29%20720p%20%5BDual%20Audio%5D/Season%201%20%28Hindi%20Dubbed%29/Tempted%20S01E16%20Hindi%20Dubbed%20720p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+	</extension>
+</playlist>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282010%29%201080p/Inception%20%282010%29%201080p/Inception.2010.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://index.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2010/Inception%20%282010%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Inception%20%282010%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/Inception%20%282010%29%20720p%20%5BDual%20Audio%5D/Inception%20%282010%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

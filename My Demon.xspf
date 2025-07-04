@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E01%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E02%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<title>My.Demon.S01E02.1080p.10bit.HIndi.Korean.Msubs.MoviesMod.org</title>
+			<duration>3827156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E03%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<title>My.Demon.S01E03.1080p.10bit.HIndi.Korean.Msubs.MoviesMod.org</title>
+			<duration>4111275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E04%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E05%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E06%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E07%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E08%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E09%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E10%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E11%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E12%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E13%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E14%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E15%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/My%20Demon%20%28TV%20Series%202023%E2%80%932024%29%201080p%20%5BDual%20Audio%5D/Season%201/My%20Demon%20S01E16%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BKorean%205.1%5D%20-MsMod.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E01.Living.in.the.Mist.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E02.Everyone.Has.a.Demon.in.Their.Heart.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E03.Joining.Hands.With.a.Demon.NF.WEB-DL.DDP2.0-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E04.Sweet.but.Dangerous.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E05.Only.You.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E06.Into.the.Wheel.of.Fortune.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E07.Stained.Relationships.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E08.The.Fateful.Choice.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E09.The.Unmasked.Truth.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E10.Breaking.Through.the.Shell.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E11.A.Paradise.of.the.Ominous.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E12.The.Savior.of.Destruction.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E13.The.Past.the.Original.Sin.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E14.Our.Personal.Hell.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E15.The.End.of.Fate.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/My%20Demon%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20%5BHin%2BKor%5D/Season%201%201080p/My.Demon.S01E16.Our.Personal.Heaven.1080p.NF.WEB-DL.DDP2.0.AV1-PrimeFix.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+	</extension>
+</playlist>

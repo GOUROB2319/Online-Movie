@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282021%29/Pushpa-The%20Rise%20-%20Part%201%20%282021%29%201080p%20%5BDual%20Audio%5D/Pushpa%20%282021%29%20UNCUT%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-DMV.mkv</location>
+			<title>HDHub4u.Tv</title>
+			<album>Downloaded From HDHub4u</album>
+			<image>file:///C:/Users/GourobSaha/AppData/Roaming/vlc/art/arturl/19cce4b1ab433261ad5322bd1dd32010/art.png</image>
+			<duration>11797334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Pushpa-The%20Rule%20-%20Part%202%20%282024%29%201080p%20%5BDual%20Audio%5D/Pushpa%202%20%282024%29%20RELOADED%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv</location>
+			<title>HDHub4u.Tv</title>
+			<album>Downloaded From HDHub4u</album>
+			<image>file:///C:/Users/GourobSaha/AppData/Roaming/vlc/art/arturl/19cce4b1ab433261ad5322bd1dd32010/art.png</image>
+			<duration>10535808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

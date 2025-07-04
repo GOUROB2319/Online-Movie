@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E00%20%20The%20Making%20Of%201080p%20HMAX%20WEBRip%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E01%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E02%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E03%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E04%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E05%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E06%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E07%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E08%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Last%20of%20Us%20S01E09%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Last%20of%20Us%20%28TV%20Series%202023%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%202/The%20Last%20of%20Us%20S02E01%20%201080p%20AMZN%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E01.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E02.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E03.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E04.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E05.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E06.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E07.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E08.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%201%201080p/The.Last.of.Us.S01E09.1080p.x264.Hindi.English.Esubs.MoviesMod.org.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Last%20of%20Us%20%28TV%20Series%202023-%29%20%5BDual%20Audio%5D%20Hin%2BEng%5D/Season%202%201080p/The.Last.of.Us.S02E01.Future.Days.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+	</extension>
+</playlist>
