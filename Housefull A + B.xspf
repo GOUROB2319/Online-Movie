@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Housefull%205%20A%E2%80%93B%20%282025%29%201080p%20HDTC/Housefull%205%20A%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Housefull%205%20A%E2%80%93B%20%282025%29%201080p%20HDTC/Housefull%205%20B%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
