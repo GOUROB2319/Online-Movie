@@ -4,7 +4,6 @@
 	<trackList>
 		<track>
 			<location>http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20F/Doraemon%20%28TV%20Cartoon%201979%E2%80%932005%29%20576p%20%28Hindi%20Dubbed%29/Season%2001/S01E01%20Hindi%20Dubbed%20576p%20DVDRip%20x265%20HEVC%2010bit%20%5BRandom69%5D.mkv</location>
-			<duration>1350003</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
@@ -311,7 +310,6 @@
 		</track>
 		<track>
 			<location>http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20F/Doraemon%20%28TV%20Cartoon%201979%E2%80%932005%29%20576p%20%28Hindi%20Dubbed%29/Season%2001/S01E52%20Hindi%20Dubbed%20576p%20DVDRip%20x265%20HEVC%2010bit%20%5BRandom69%5D.mkv</location>
-			<duration>1397003</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>51</vlc:id>
 			</extension>

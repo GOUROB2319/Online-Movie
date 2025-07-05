@@ -10,7 +10,6 @@
 			<trackNum>1</trackNum>
 			<annotation>CRC : 57052920</annotation>
 			<image>file:///C:/Users/Gourob%20Saha/AppData/Roaming/vlc/art/artistalbum/Rupam%20Islam/Autograph/art.jpg</image>
-			<duration>253280</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
@@ -41,7 +40,6 @@
 			<trackNum>5</trackNum>
 			<annotation>CRC : E82596A3</annotation>
 			<image>file:///C:/Users/Gourob%20Saha/AppData/Roaming/vlc/art/artistalbum/Shreya%20Ghoshal/Autograph/art.jpg</image>
-			<duration>215813</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
 			</extension>

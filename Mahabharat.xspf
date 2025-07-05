@@ -4,7 +4,6 @@
 	<trackList>
 		<track>
 			<location>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20M%20%20%E2%80%94%20%20R/Mahabharat%20%28TV%20Series%202013%E2%80%932014%29%20720p/Season%2001/Episode%2001%20Shantanu%20Accepts%20Bhishma%20As%20Son%20%5BDDR%5D.mp4</location>
-			<duration>2541720</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>

@@ -4,105 +4,90 @@
 	<trackList>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E01.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>572978</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E02.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>787603</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E03.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>686061</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E04.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>729228</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E05.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>732311</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E06.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>686978</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E07.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>597061</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E08.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>677375</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E09.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>770894</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E10.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>742228</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E11.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>745061</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E12.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>718811</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>11</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E13.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>707603</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>12</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E14.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>824228</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>13</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Be%20My%20Boyfriend%20%28TV%20Mini%20Series%202021%E2%80%932022%29%20720p/Season%201%20%28Korean%20Language%29/Be.My.Boyfriend.E15.KOR.720p.WEB-DL.x265.HEVC.10bit.ESub-LoveBug.mkv</location>
-			<duration>1045269</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>14</vlc:id>
 			</extension>

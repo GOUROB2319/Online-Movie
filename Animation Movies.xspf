@@ -10,7 +10,6 @@
 		</track>
 		<track>
 			<location>http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282022%29/Suzume%20%282022%29%20720p%20%5BMulti%20Audio%5D/Suzume%20%282022%29%20720p%20BluRay%20x264%20MSubs%20%5BMulti%20Audio%5D%5BHindi%20%28Clean%29%2BJapanese%202.0%2BChinese%202.0%5D%20-mkvA.mkv</location>
-			<duration>7285322</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
